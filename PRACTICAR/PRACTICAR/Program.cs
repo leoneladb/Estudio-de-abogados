@@ -1,5 +1,5 @@
 ﻿
-//puto el que lee
+
 using System;
 
 namespace Ejercicio_2
