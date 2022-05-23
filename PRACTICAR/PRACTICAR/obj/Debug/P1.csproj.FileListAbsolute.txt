@@ -1,0 +1,6 @@
+C:\Users\Argentina\Documents\SharpDevelop Projects\PRACTICAR\PRACTICAR\obj\Debug\P1.csprojResolveAssemblyReference.cache
+C:\Users\Argentina\Documents\SharpDevelop Projects\PRACTICAR\PRACTICAR\bin\Debug\P1.exe.config
+C:\Users\Argentina\Documents\SharpDevelop Projects\PRACTICAR\PRACTICAR\bin\Debug\P1.exe
+C:\Users\Argentina\Documents\SharpDevelop Projects\PRACTICAR\PRACTICAR\bin\Debug\P1.pdb
+C:\Users\Argentina\Documents\SharpDevelop Projects\PRACTICAR\PRACTICAR\obj\Debug\P1.exe
+C:\Users\Argentina\Documents\SharpDevelop Projects\PRACTICAR\PRACTICAR\obj\Debug\P1.pdb

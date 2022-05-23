@@ -1,0 +1,6 @@
+C:\Users\Argentina\Documents\SharpDevelop Projects\PRACTICAR\P3\obj\Debug\P3.csprojResolveAssemblyReference.cache
+C:\Users\Argentina\Documents\SharpDevelop Projects\PRACTICAR\P3\bin\Debug\P3.exe.config
+C:\Users\Argentina\Documents\SharpDevelop Projects\PRACTICAR\P3\bin\Debug\P3.exe
+C:\Users\Argentina\Documents\SharpDevelop Projects\PRACTICAR\P3\bin\Debug\P3.pdb
+C:\Users\Argentina\Documents\SharpDevelop Projects\PRACTICAR\P3\obj\Debug\P3.exe
+C:\Users\Argentina\Documents\SharpDevelop Projects\PRACTICAR\P3\obj\Debug\P3.pdb
