@@ -1,4 +1,5 @@
 ﻿
+//Esta es una modificacion V0.2
 using System;
 
 namespace Ejercicio_2
