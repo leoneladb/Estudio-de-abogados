@@ -29,7 +29,7 @@ namespace Ejercicio_2
 	}
 	class convertir{
 	
-		private double euro = 1.055546875;
+		private double euro = 1.055546875;      //Perdiste el Juego
 		
 		public double conv (double cantidad){
 	
