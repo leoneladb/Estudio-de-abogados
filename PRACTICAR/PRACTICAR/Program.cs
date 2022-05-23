@@ -1,5 +1,4 @@
 ﻿
-//Esta es una modificacion V0.2
 using System;
 
 namespace Ejercicio_2
@@ -30,7 +29,7 @@ namespace Ejercicio_2
 	}
 	class convertir{
 	
-		private double euro = 1.055546875;      //Perdiste el Juego
+		private double euro = 1.055546875;
 		
 		public double conv (double cantidad){
 	
